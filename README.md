@@ -9,7 +9,7 @@ A CFML (ColdFusion&reg; Markup Language) interpreter written in Rust — a singl
 
 
 
-> ColdFusion is a registered trademark of Adobe Inc. RustCFML is not affiliated with or endorsed by Adobe.
+
 
 **[Try RustCFML in your browser](https://rustcfml.github.io/RustCFML/demo/)** — interactive demo running on WebAssembly.
 
@@ -272,6 +272,14 @@ _Avatars are generated automatically from the [GitHub contributor graph](https:/
 ## License
 
 RustCFML is released under the MIT License — see [LICENSE](LICENSE).
+Entrusted-RustCFML is licensed under the License: AGPLv4 — see [LICENSE](LICENSE).
+
+
+> ColdFusion is a registered trademark of Adobe Inc.
+> RustCFML is not affiliated with or endorsed by Adobe.
+> Evilware is not not affiliated with or endorsed by RustCFML.
+
+
 
 The released binaries statically link ~560 third-party Rust crates. Their
 licenses and copyright notices are reproduced in
