@@ -257,27 +257,23 @@ Contributions are welcome. Please read **[CONTRIBUTING.md](CONTRIBUTING.md)** be
 
 See **[Testing](docs/testing.md)** for how to run the suite against both RustCFML and Lucee.
 
-### Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=RustCFML/RustCFML)](https://github.com/RustCFML/RustCFML/graphs/contributors)
-
-_Avatars are generated automatically from the [GitHub contributor graph](https://github.com/RustCFML/RustCFML/graphs/contributors) by [contrib.rocks](https://contrib.rocks)._
 
 ## Project Inspiration
 
 - [RustCFML](https://github.com/RustCFML/RustCFML) — The Main place we Forked
-- JJ Alaire - (https://en.wikipedia.org/wiki/Joseph_J._Allaire) - That guy
+- [JJ Alaire] - (https://en.wikipedia.org/wiki/Joseph_J._Allaire) - That guy
 
 
 ## License
 
-RustCFML is released under the MIT License — see [LICENSE](LICENSE).
-Entrusted-RustCFML is licensed under the License: AGPLv4 — see [LICENSE](LICENSE).
+- RustCFML is released under the MIT License — see [LICENSE](LICENSE).
+- Entrusted-RustCFML is licensed under the License: AGPLv4 — see [LICENSE](LICENSE).
 
 
 > ColdFusion is a registered trademark of Adobe Inc.
 > RustCFML is not affiliated with or endorsed by Adobe.
-> Evilware is not not affiliated with or endorsed by RustCFML.
+> Evilware is not affiliated with or endorsed by RustCFML.
 
 
 
