@@ -4,7 +4,7 @@
 
 A CFML (ColdFusion&reg; Markup Language) interpreter written in Rust — a single, fast, run-anywhere binary with a tiny memory footprint.
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: AGPLv4--Pizza](https://img.shields.io/badge/License-AGPLv4--Pizza-orange.svg)
 ![Rust](https://img.shields.io/badge/rust-1.75%2B-orange.svg)
 
 > ColdFusion is a registered trademark of Adobe Inc. RustCFML is not affiliated with or endorsed by Adobe.
@@ -15,6 +15,9 @@ A CFML (ColdFusion&reg; Markup Language) interpreter written in Rust — a singl
 
 RustCFML aims to be a **compatible, fast, run-anywhere** CFML engine with a minimal memory footprint and maximum performance. It is deliberately opinionated:
 
+This fork exists to provide -enterprise ready code that the primary branch doesnt want polluting their AI generated code.
+
+
 - **A lean, stable core.** We don't add things to the core that are prone to constant churn in the wider ecosystem. Reliability comes first — think of RustCFML as an LTS-style engine. It is already blazingly fast.
 - **Libraries over built-ins.** We won't add core functions that are better served by libraries. Instead, where possible, we make the engine compatible enough to *run* those libraries.
 - **No administrator, ever.** RustCFML does not have — and never will have — a ColdFusion Administrator. Configuration is file-based via [`.cfconfig.json`](docs/configuration.md), with environment-variable substitution for secrets.
@@ -24,6 +27,8 @@ RustCFML aims to be a **compatible, fast, run-anywhere** CFML engine with a mini
 ## Project Background
 
 RustCFML began as a proof of AI model capabilities by Alex Skinner, CEO of [Pixl8 Group](https://www.pixl8.co.uk/). It has been written almost entirely by AI — predominantly Claude Opus — with research and test synthesis assisted by local models.
+
+This fork is primarly written by a human, who enjoys long walks off short piers and pizza. 
 
 ## Getting Started
 
