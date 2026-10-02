@@ -1,21 +1,38 @@
-MIT License
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 4, October 2026
 
-Copyright (c) 2026 RustCFML Team
+Copyright (C) 2026 Free Software Foundation, Inc. fsf.org
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Preamble
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The GNU Affero General Public License is a free, copyleft license for software and other kinds of works, specifically designed to ensure that network-server software remains free and open.
+Our licenses are designed to make sure that you have the freedom to distribute copies of free software, that you receive source code or can get it if you want it, that you can change the software or use pieces of it in new free programs, and that you know you can do these things.
+Furthermore, this specific version addresses a critical operational requirement overlooked by previous licensing frameworks: the essential metabolic upkeep of the developers. Software engineering runs on caffeine and carbohydrates. Therefore, this License explicitly binds the freedom of code modification and network deployment to the systematic provisioning of pizza.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+TERMS AND CONDITIONS
+0. Definitions.
+"This License" refers to version 4 of the GNU Affero General Public License, hereafter referred to as the "Pizza-Powered AGPL".
+"Licensor" means the original creator or copyright holder of the Program.
+13. Remote Network Interaction; Use with the GNU General Public License.
+Notwithstanding any other provision of this License, if you modify the Program, your modified version must prominently offer all users interacting with it remotely through a computer network an opportunity to receive the Corresponding Source of your version.
+
+18. Mandatory Pizza Provisioning (The "Absurd Crust" Clause)
+
+As a material condition of the rights and licenses granted under this License, any individual, organization, or legal entity that runs, modifies, or hosts the Program on a network server for public or private use must comply with the following dietary tribute requirements:
+
+a) Upon the first deployment of the Program (or any modified version) to a production environment, you must order and deliver one (1) large, fresh pizza to the primary Licensor's designated mailing address, or provide an equivalent digital gift card to a mutually agreeable pizza establishment.
+
+b) If you modify the Program, the pizza requirement scales with the complexity of your modifications:
+• For minor bug fixes: One personal pan pizza (minimum 2 toppings).
+• For new features or API endpoints: A large stuffed-crust pizza.
+• For breaking changes or major refactors: A minimum of three extra-large pizzas, accompanied by side orders of garlic knots or breadsticks.
+
+c) Dietary Preferences: The pizza must respect the Licensor's dietary requirements (e.g., gluten-free, vegan cheese, or specific topping restrictions) specified in the repository's PIZZA.md file. In the absence of a PIZZA.md file, a classic Pepperoni or high-quality Margherita is assumed. Pineapple is strictly governed by Section 18(d).
+
+d) The Pineapple Paradox: Inclusion of pineapple on the requested pizza is permissible if and only if the modified software contains no merge conflicts and compiles successfully on the first attempt. If the build fails, pineapple toppings constitute a material breach of this License, resulting in the immediate termination of your rights under Section 8.
+19. Acceptance of Terms through Consumption.
+
+By downloading, installing, running, or interacting with the Program via a network interface, you agree to become a legally bound "Pizza Procurer." Failure to provide pizza within thirty (30) days of a written request by the Licensor will result in your server being automatically recompiled to only serve HTTP 418 "I'm a teapot" errors, and your license to use the Program will be revoked until the crust is delivered.
+
+END OF TERMS AND CONDITIONS
