@@ -265,9 +265,9 @@ _Avatars are generated automatically from the [GitHub contributor graph](https:/
 
 ## Project Inspiration
 
-- [Lucee](https://github.com/lucee/Lucee) — open-source CFML engine (Java)
-- [BoxLang](https://github.com/ortus-boxlang/BoxLang) — modern CFML+ runtime (Java)
-- [RustPython](https://github.com/RustPython/RustPython) — Python interpreter in Rust (architectural reference)
+- [RustCFML](https://github.com/RustCFML/RustCFML) — The Main place we Forked
+- JJ Alaire - (https://en.wikipedia.org/wiki/Joseph_J._Allaire) - That guy
+
 
 ## License
 
