@@ -7,9 +7,7 @@ A CFML (ColdFusion&reg; Markup Language) interpreter written in Rust — a singl
 ![License: AGPLv4--Pizza](https://img.shields.io/badge/License-AGPLv4--Pizza-orange.svg)
 ![Rust](https://img.shields.io/badge/rust-1.75%2B-orange.svg)
 
-![Entrusted Shield](https://img.shields.io/badge/Security-Entrusted_Guard-purple?style=for-the-badge&logo=shield)
-![Pizza Enforcement](https://img.shields.io/badge/License-AGPLv4--Pizza-orange?style=for-the-badge&logo=slice-of-pizza)
-![Rust Core](https://img.shields.io/badge/Engine-Zero--Copy_Rust-red?style=for-the-badge&logo=rust)
+
 
 > ColdFusion is a registered trademark of Adobe Inc. RustCFML is not affiliated with or endorsed by Adobe.
 
