@@ -2252,8 +2252,8 @@ fn print_ready_banner(what: &str, mode: &str, doc_root: &Path) {
                 memory_limit::human(fp)
             ),
             None => println!(
-                "warning: --max-memory {} cannot be enforced: this build has no \
-                 mimalloc process statistics",
+                "warning: --max-memory {} cannot be enforced: the process's memory \
+                 footprint can't be measured on this platform",
                 memory_limit::human(e.limit().max)
             ),
         }
@@ -2831,8 +2831,10 @@ async fn stream_multipart_form(
                 // Plain form fields are small by construction and are the whole
                 // point of the form scope, so these DO stay in memory — Lucee
                 // reads them the same way (`IOUtil.toBytes` per field).
+                // Repeated names (a checkbox group) merge as the urlencoded
+                // path does; insert() kept only the last value.
                 let text = field.text().await?;
-                form.insert(field_name.to_lowercase(), CfmlValue::string(text));
+                cfml_vm::web::insert_query_value(&mut form, field_name.to_lowercase(), text);
             }
         }
     }
